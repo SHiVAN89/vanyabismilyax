@@ -1,0 +1,36 @@
+/**
+    * Theme Name:  newTHEME
+    * Description: Короткое описание темы
+    *
+    * Author:      author
+    * Author URI:  https:/vk.com/USER
+    *
+    * Tags:        black, brown, orange  
+    *
+    * Version:     1.0
+    */
+
+body{
+    background: #F2F1EC;
+    max-width: 700px;
+    margin: 2em auto;
+}
+
+.header, .footer{
+    margin: 2em auto;
+    text-align: center;
+}
+.post{
+    margin: 2em auto;
+    margin-left: 190px;
+}
+.content{
+    text-align: left;
+    margin-right:120px;
+}
+
+
+.post-date,
+.post-author {
+    padding: 0 10px; 
+}
